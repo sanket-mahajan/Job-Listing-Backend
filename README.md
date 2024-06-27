@@ -5,7 +5,7 @@ This repository contains the backend service for the Job Listing Application, bu
 - Fetch all job listings
 - Search job listings by text
 - Add new job listings
-- 
+  
 ## Technologies Used
 - Spring Boot
 - MongoDB
